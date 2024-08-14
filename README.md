@@ -1,4 +1,4 @@
-<p><h1 align="center">基于JSP+Servlet实现的网上体育商城</h1></p>
+<p><h1 align="center">基于JSP+Servlet实现的网上体育商城【带文档】</h1></p>
 
 <p> 获取sql文件 QQ: 605739993 QQ群: 377586148 </p>
 
